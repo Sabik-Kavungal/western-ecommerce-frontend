@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "name": "Floral Summer Dress",
+    "description": "Beautiful floral print dress perfect for summer occasions. Made with soft, breathable fabric that keeps you comfortable all day long.",
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400"
+    ],
+    "price": 400,
+    "color": "Pink",
+    "quantity": 1,
+    "availableSizes": ["Free Size"],
+    "isFeatured": true,
+    "isAvailable": true
+  },
+  {
+    "id": "1-2",
+    "name": "Floral Summer Dress",
+    "description": "Beautiful floral print dress perfect for summer occasions. Made with soft, breathable fabric that keeps you comfortable all day long.",
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400"
+    ],
+    "price": 400,
+    "color": "Blue",
+    "quantity": 1,
+    "availableSizes": ["Free Size"],
+    "isFeatured": true,
+    "isAvailable": true
+  },
+  {
+    "id": "2",
+    "name": "Casual Denim Jacket",
+    "description": "Stylish denim jacket for a casual yet trendy look. Perfect for layering over your favorite outfits.",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400",
+      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=400"
+    ],
+    "price": 400,
+    "color": "Blue",
+    "quantity": 1,
+    "availableSizes": ["Free Size"],
+    "isFeatured": true,
+    "isAvailable": true
+  },
+  {
+    "id": "3",
+    "name": "Elegant Blouse",
+    "description": "Classic white blouse that goes with everything. Perfect for office or casual wear. Versatile and timeless.",
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=400",
+      "https://images.unsplash.com/photo-1571945153237-4929e783af4a?w=400"
+    ],
+    "price": 400,
+    "color": "White",
+    "quantity": 1,
+    "availableSizes": ["Free Size"],
+    "isFeatured": false,
+    "isAvailable": true
+  },
+  {
+    "id": "4",
+    "name": "Printed Skirt",
+    "description": "Vibrant printed skirt that adds color to your wardrobe. Comfortable and stylish, perfect for any occasion.",
+    "images": [
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=400",
+      "https://images.unsplash.com/photo-1594633312681-425c7b7bccd1?w=400"
+    ],
+    "price": 400,
+    "color": "Red",
+    "quantity": 1,
+    "availableSizes": ["Free Size"],
+    "isFeatured": true,
+    "isAvailable": true
+  },
+  {
+    "id": "5",
+    "name": "Crop Top",
+    "description": "Trendy crop top perfect for summer. Pair with high-waisted pants or skirts for a fashionable look.",
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=400",
+      "https://images.unsplash.com/photo-1571945153237-4929e783af4a?w=400"
+    ],
+    "price": 400,
+    "color": "Yellow",
+    "quantity": 1,
+    "availableSizes": ["Free Size"],
+    "isFeatured": false,
+    "isAvailable": true
+  },
+  {
+    "id": "6",
+    "name": "Palazzo Pants",
+    "description": "Comfortable and stylish palazzo pants. Perfect for a relaxed yet elegant look. Great for everyday wear.",
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400"
+    ],
+    "price": 400,
+    "color": "Black",
+    "quantity": 1,
+    "availableSizes": ["Free Size"],
+    "isFeatured": false,
+    "isAvailable": true
+  }
+]
